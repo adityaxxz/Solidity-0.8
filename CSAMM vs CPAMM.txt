@@ -1,0 +1,18 @@
+Constant Product AMM (e.g., Uniswap):
+
+1 . Product of token quantities remains constant.
+2 . Price changes follow a curved relationship.
+3 . Impermanent loss can occur, incentivizing arbitrage.
+4 . Liquidity providers supply both tokens, earn fees.
+5 . Trades can have significant price impact.
+
+
+Constant Sum AMM (e.g., Bancor protocol):
+
+1 . Sum of token values remains constant.
+2 . Price changes are linear and more predictable.
+3 . Impermanent loss might be reduced.
+4 . Protocol adjusts token quantities to maintain balance.
+5 . Liquidity providers supply one token, earn fees.
+6 . Trades have relatively stable price impact.
+
